@@ -1,0 +1,5 @@
+<script>start("/Users/thierrygluzman/Downloads/artisan-2.10.4/.github/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("ISSUE_TEMPLATE","ISSUE_TEMPLATE",1,160,"160 B",1711092830,"22/03/2024 08:33:50");</script>
+<script>addRow("workflows","workflows",1,224,"224 B",1711092830,"22/03/2024 08:33:50");</script>
+<script>addRow("dependabot.yml","dependabot.yml",0,271,"271 B",1711092830,"22/03/2024 08:33:50");</script>
