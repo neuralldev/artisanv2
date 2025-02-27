@@ -38,6 +38,8 @@ if [ $# != 0 ]; then
     esac
 fi
 
+pip install pyQt6
+
 #
 # Generate translation, ui, and help files derived from repository sources
 #
