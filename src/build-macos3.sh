@@ -28,6 +28,7 @@ if [ -z $APPVEYOR ]; then
 fi
 
 echo "************* build derived files **************"
+cd /Users/appveyor/projects/artisanv2/src
 ./build-derived.sh macos  #generate the derived files
 if [ $? -ne 0 ]; then echo "Failed in build-derived.sh"; exit $?; else (echo "** Finished build-derived.sh"); fi
 
